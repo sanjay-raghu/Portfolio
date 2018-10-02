@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "My Blog"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "Sanjay Raghuwanshi"
+description              : &description "Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "mmistakes/minimal-mistakes"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : #&twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : &facebook "sanjay11100"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -80,23 +80,23 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
-  uri              : "https://mademistakes.com"
+  avatar           : "bio_pic.png"
+  bio              : "Data Science and Machine Learning Enthusiast."
+  location         : "Delhi, India"
+  email            : sanjay.r.iitg@gmail.com
+  uri              : #"https://mademistakes.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "sanjay-raghu"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : #"mmistakes"
   lastfm           :
-  linkedin         :
+  linkedin         : sanjayiitg
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
